@@ -1,3 +1,3 @@
 // Code your solution in this file!
 let companyName = 'Scuber';
-const specialName = 'Scuber';
+const specialCompany = 'TypeError';
